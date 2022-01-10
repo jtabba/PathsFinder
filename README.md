@@ -1,4 +1,4 @@
-# Pathsfinder
+# PathsFinder
 
 A recursive algorithm used to determine how many possible paths exist within a metaphorical 'warehouse', represented by an array of 1's (open path) and 0's (blocked path). 
 
